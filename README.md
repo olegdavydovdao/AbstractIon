@@ -1,0 +1,2 @@
+# AbstractIon
+JEPA neural net model with specific action processing.
