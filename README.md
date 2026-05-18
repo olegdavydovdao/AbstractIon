@@ -8,6 +8,7 @@ The JEPA-like neural net will outperform an LLM in:
 5) Physical intuition and understanding the real world.
 ## First principle/intuition behind the idea
 <img width="1920" height="851" alt="github first principle screenshot" src="https://github.com/user-attachments/assets/8f268450-8d2c-4bba-bf08-99b418aa01f0" />
+
 I have a [video](./first_principle_video.mp4) that explains this image.
 
 ## State of the project
