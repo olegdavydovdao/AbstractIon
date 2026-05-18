@@ -13,4 +13,5 @@ I have a [video](./first_principle_video.mp4) that explains this image.
 
 ## State of the project
 There is only an idea that exists right now, there is no code.  
+I'm trying to figure out how to build this architecture.  
 ongoing...
